@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Database (PostgreSQL)
+*.sql
+dump/
+*.dump
+*.backup
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.swp
+*~
