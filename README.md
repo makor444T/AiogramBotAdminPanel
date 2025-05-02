@@ -18,7 +18,7 @@ A Telegram bot built with `aiogram` and Finite State Machine (FSM) for managing 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/makor444T/your-repo-name.git
+git clone https://github.com/makor444T/AiogramBotAdminPanel.git
 cd your-repo-name
 
 ### 2. Install Dependencies
